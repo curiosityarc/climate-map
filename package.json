@@ -19,7 +19,8 @@
     "webpack-dev-server": "^5.2.1",
     "postcss": "8.4.31",
     "brace-expansion": "2.0.2",
-    "form-data": ">=3.0.4"
+    "form-data": ">=3.0.4",
+    "on-headers": ">=1.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
